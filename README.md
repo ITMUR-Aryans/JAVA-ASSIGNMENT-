@@ -2,24 +2,6 @@
 
 A comprehensive repository containing 12 Java Object-Oriented Programming (OOP) practical assignments, including source code, descriptions, and execution output screenshots.
 
-<p align="center">
-  <b>Quick Navigation:</b><br>
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-1">Practical 01</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-2">Practical 02</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-3">Practical 03</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-4">Practical 04</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-5">Practical 05</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-6">Practical 06</a><br>
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-7">Practical 07</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-8">Practical 08</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-9">Practical 09</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-10">Practical 10</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-11">Practical 11</a> |
-  <a href="https://github.com/ITMUR-Aryan/Java-Assignment/tree/master/src/Practical-12">Practical 12</a>
-</p>
-
----
-
 ## 📚 Table of Contents
 
 | Practical | Title | Topic / Description | Source File(s) |
